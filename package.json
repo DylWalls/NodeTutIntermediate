@@ -1,0 +1,25 @@
+{
+  "name": "MusicLibraryStarterCode-main",
+  "version": "1.0.0",
+  "description": "Intermediate Node.js Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylWalls/NodeTutIntermediate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylWalls/NodeTutIntermediate/issues"
+  },
+  "homepage": "https://github.com/DylWalls/NodeTutIntermediate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
